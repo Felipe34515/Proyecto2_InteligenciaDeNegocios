@@ -1,9 +1,17 @@
 # Análisis sobre la Encuesta Multipropósito
 
+## Link de los Tableros de Control Interactivos
+
+https://uniandes-my.sharepoint.com/:u:/g/personal/l_plazasp_uniandes_edu_co/EdDyZ5h4OJ9Ki0LpuXXvNqEB55FH81mQsrVWHb52tGS7ew?e=hm8kVk
+
+
+## Link del Video del Proyecto
+
+https://www.youtube.com/watch?v=4FM7wfK4iX4&list=PLb_ZF8jsdTRHz9Mv9Y5d1chsAvQwC0WSA&index=2&ab_channel=FelipeRueda
+
 **Autores:**
 - Felipe Rueda
 - Santiago Pardo
-
 - Luis Plazas
 
 **Fecha:**
